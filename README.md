@@ -22,35 +22,6 @@ Copy
 Edit
 start index.html   # On Windows
 open index.html    # On macOS
-📁 Folder Structure
-pgsql
-Copy
-Edit
-tonweb-app/
-├── index.html
-├── css/
-│   └── styles.css
-├── images/
-│   └── [all logo/images here]
-├── README.md
-⚙️ Customization
-Edit css/styles.css to adjust styles or themes.
-
-Replace images/logos/videos by placing your files in the /images/ folder and updating the paths in index.html.
-
-📱 Responsive Design
-This landing page is fully responsive across:
-
-Mobile phones 📱
-
-Tablets 📲
-
-Desktops 💻
-
-Built using Bootstrap’s powerful grid system and utility classes.
-
-📝 License
-This project is licensed under the MIT License.
 
 🙌 Author
 Made with ❤️ by Eslavath Anil
